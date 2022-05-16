@@ -1,2 +1,2 @@
 # ancestry-product-analysis
-Exploration, analysis and recommendations for product subscription growth
+Exploration, analysis and recommendations for product subscriptions
